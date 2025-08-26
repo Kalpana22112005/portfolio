@@ -24,7 +24,7 @@ It showcases my skills, projects, and achievements as an IT Engineering student 
 ## 📬 Contact
 - GitHub: [kalpana22112005](https://github.com/kalpana22112005)  
 - Email: kalpana22112005@gmail.com  
-- LinkedIn: [Kalpana Jaiswal](https://www.linkedin.com/in/your-link-here)
+- LinkedIn: [Kalpana Jaiswal](https://www.linkedin.com/in/kalpana-jaiswal-8b6959314)
 
   ## 👩 Author
 *Kalpana Jaiswal*  
